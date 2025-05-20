@@ -1,2 +1,2 @@
-# Creatice Coding Assement 
+# Creative Coding Assement 
 
