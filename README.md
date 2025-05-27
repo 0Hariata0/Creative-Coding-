@@ -1,1 +1,28 @@
 # Creative Coding Assement 
+
+Curated Submission 1 (p5.js)
+My first curated submission is from week 2 on p5.js. We were learning how to write simple javascript and how the mouse can interact with our code.
+The reason why I choose this code is I was finally beginning to understand that code can be more than just for technical reasons but it can also be used to make art and to express yourself. I also was beging to understand how code can work together.
+I chose to make a dog because I was missing my dog from back home and I also thought it was simplistic shape that I should be able to replicate on my code pretty easily.
+
+Curated Submission 2 (p5.js)
+My first curated submission is from week 2 on p5.js. We were learning how to write simple javascript and how the mouse can interact with our code.
+The reason why I choose this code is I was finally beginning to understand that code can be more than just for technical reasons but it can also be used to make art and to express yourself. I also was beging to understand how code can work together.
+I chose to make a dog because I was missing my dog from back home and I also thought it was simplistic shape that I should be able to replicate on my code pretty easily.
+How the code works is by using random() in a loop to draw a vertical line made of different colours, with each vertex(x, y) placed randomly across the width of the canvas.
+
+Curated Submission 3 (p5.js)
+For my third curated submission I choose one from week five where we were coding in p5.js. In week five we were learning about Perlin noise which is a way to create natural-looking randomness in computer graphics. It's smoother and more organic than random noise. I found this really interesting because in my creative practice I love designing things that look organic and random so it really connected with my design style. Thats also why I have random coloured circles as well. Overall I find this code very appealing to watch. 
+How the code works is I use Perlin noise to create smooth, natural positions for a circle, then fill(random(40, 255), random(255), random(255)) gives it a random color, and ellipse code draws it on the canvas; each frame/when a new circle appears, xoff and yoff increase slightly to keep the motion flowing.
+
+Curated Submission 4 (Node-based programming)
+For my fourth curated submission, I chose a project from Week 11 where we did node-based programming. This week we focused on working with geometry, SOP networks and audio reactive code in TouchDesigner. I enjoyed learning how to manipulate 3D shapes and how different SOP nodes could be combined to create complex, changing shapes. In my project, I explored ways to change the geometry structure using noise and transformation nodes. What I found most compelling was how much control and flexibility SOP networks had allowing me to build intricate forms from simple operations. 
+The project works by starting with a basic 3D shape using SOP nodes like a sphere. I used the Noise SOP to add wavy, organic movement to the shape, and added a Transform SOP to rotate or scale it. These effects over time make the geometry change and flow randomly in a controlled environment.
+
+Curated Submission 5 (Node-based programming)
+(In project 2)
+For my fifth curated submission, I chose a project from Week 7 where we did node-based programming. The focus was on using TOPs (Texture Operators) in TouchDesigner. This week I was just playing around and beginning to understand how the coding works for the new software. I ended up working with 2D image and played around with the visuals using things like patterns, noise, and compositing. I found this approach really engaging because it allowed me to experiment with layering textures, adjusting colour, and applying effects like blur and displacement. This was pretty much me jsut seeing what certain things did. The only issue is I did too much to the code that I don't know how the code works in the sense I don't know how to repeat what I have made, which is both a good and a bad thing. I know how each node works independently, but how the work together to get the end product is something that I still struggle to get my head around particularly with this code, which is apart of why I choose it. I think the code is aesthetically pleasing to look at and its really interesting to see how the code developed.
+
+Curated Submission 6 (Node-based programming)
+(In project 2)
+My sixth curated submission is from Week 8 where we used node-based programming. This week we explored feedback loops in TouchDesigner. This code focuses on creating a "pattern" that builds and changes over time, using a feedback network to loop previous frames back into the current frame. I found this really fascinating because it creates a sense of motion and transformation that feels fluid and its like a "living" code as it keeps evolving. In my code, I combined basic shapes, squares, with transformation and blur TOPs inside a feedback loop, allowing the visuals to shift and distort gradually. This allows the pattern to react to itself, producing an almost infinite square pattern repeating itself. I followed a video guide for this particular code it was interesting to learn outside of the lecture setting as it was harder to understand how or why the code works. That is why I choose this code, because I followed the video and it didn't work quite turn out right. I know I am missing a few things but it still works to some extend and it was fun experimenting and learning in a environment where I may not be as comfortable.
